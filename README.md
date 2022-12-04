@@ -1,2 +1,2 @@
-# ig-you-uat
-IG YOU app for UAT environment
+# IG YOU (UAT)
+Official IG YOU app repository for UAT environment.
